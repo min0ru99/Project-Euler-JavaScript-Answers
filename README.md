@@ -1,3 +1,3 @@
 # Intro
-My answers for the project euler problems obtained from
+My answers (in Javascript) for the project euler problems obtained from
 www.projecteuler.net
